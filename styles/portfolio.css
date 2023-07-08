@@ -127,3 +127,8 @@ main {
 .about-info{
     text-align: center;
 }
+.btn-primary:hover{
+    background-color: darksalmon;
+    color: #181818;
+    cursor: pointer;
+}
